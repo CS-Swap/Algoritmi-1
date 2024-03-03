@@ -1,4 +1,4 @@
 # Algoritmi-1
 
-### Esercizzi Lezioni
+### Esercizi Lezioni
 [ES Lezione 2](/../../issues/1)
