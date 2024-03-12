@@ -2,4 +2,5 @@
 
 ### Esercizi Lezioni
 - [ES Lezione 2](/../../issues/1)
+- [ES Lezione 3](/../../issues/3)
 - [ES Lezione 4](/../../issues/2)
