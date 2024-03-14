@@ -12,8 +12,8 @@
 - [Esame 17 Gennaio 2024]()
 
 **2023:**
-- [esame 3 Novembre 2023]()
-- [esame 12 Settembre 2023]()
+- [Esame 3 Novembre 2023]()
+- [Esame 12 Settembre 2023]()
 - [Esame 5 Luglio 2023]()
 - [Esame 7 Giugno 2023]()
 - [Esame 20 Marzo 2023]()
