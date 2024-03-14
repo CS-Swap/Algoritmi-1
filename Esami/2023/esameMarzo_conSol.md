@@ -1,4 +1,4 @@
-> **PDF:** [Esame x marzo 2023](/Esami/2023/esameMarzo_conSol.pdf)
+> **PDF:** [Esame 20 marzo 2023](/Esami/2023/esameMarzo_conSol.pdf)
 
 ### Esercizi:
 
