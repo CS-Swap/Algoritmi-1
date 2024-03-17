@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-🖋️ Scrivi qui la consegna o carica la foto, se lo hai già svolto carica la tua soluzione!
+🖋️ Scrivi qui la consegna o carica la foto, se lo hai già svolto carica la tua soluzione nei commenti! {Cancellami 🙃}
