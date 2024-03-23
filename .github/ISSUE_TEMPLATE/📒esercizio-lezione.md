@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4D2Esercizio Lezione"
 about: Carica la consegna di un esercizio
-title: Esercizio Lezione X - Breve descrizzione dell'esercizio
+title: Esercizio Lezione X - Breve descrizione dell'esercizio
 labels: Aggiornare Index, Esercitazione, To-Do
 assignees: notedo
 
