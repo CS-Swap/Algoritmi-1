@@ -1,9 +1,9 @@
 ---
-name: "\U0001F4D2Esercizio"
+name: "\U0001F4D2Esercizio Lezione"
 about: Carica la consegna di un esercizio
-title: 'Esercizio #{num} - {Scheda / Esame} #{num}'
-labels: Aggiornare Index, Da Controllare
-assignees: ''
+title: Esercizio Lezione X - Breve descrizzione dell'esercizio
+labels: Aggiornare Index, Esercitazione, To-Do
+assignees: notedo
 
 ---
 
