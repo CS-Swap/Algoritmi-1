@@ -9,7 +9,7 @@
 ---
 ### Esami
 **2024:**
-- [Eesame 14 Febbraio 2024](/Esami/2024/esameFebbraio_24_conSol.md)
+- [Esame 14 Febbraio 2024](/Esami/2024/esameFebbraio_24_conSol.md)
 - [Esame 17 Gennaio 2024](/Esami/2024/esameGennaio_24_conSol.md)
 
 **2023:**
