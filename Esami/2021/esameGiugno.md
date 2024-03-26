@@ -1,4 +1,4 @@
-> **PDF:** [Esame x giugno 2021](/Esami/2021/esameGiugno_conSol.pdf)
+> **PDF:** [Esame 22 giugno 2021](/Esami/2021/esameGiugno_conSol.pdf)
 
 ### Esercizi:
 
