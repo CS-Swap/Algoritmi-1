@@ -1,4 +1,4 @@
-> **PDF:** [Esame x settembre 2023](/Esami/2023/esameSettembre_conSol.pdf)
+> **PDF:** [Esame 12 settembre 2023](/Esami/2023/esameSettembre_conSol.pdf)
 
 ### Esercizi:
 
