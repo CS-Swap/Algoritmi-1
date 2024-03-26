@@ -1,4 +1,4 @@
-> **PDF:** [Esame x ottobre 2022](/Esami/2022/esameOttobre2022_conSol.pdf)
+> **PDF:** [Esame 25 ottobre 2022](/Esami/2022/esameOttobre2022_conSol.pdf)
 
 ### Esercizi:
 
