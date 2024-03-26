@@ -1,4 +1,4 @@
-> **PDF:** [Esame x marzo 2022](/Esami/2022/esameMarzo2022_conSol.pdf)
+> **PDF:** [Esame 31 marzo 2022](/Esami/2022/esameMarzo2022_conSol.pdf)
 
 ### Esercizi:
 
