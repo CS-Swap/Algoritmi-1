@@ -1,4 +1,4 @@
-> **PDF:** [Esame x giugno 2023](/Esami/2023/esameGiugno_conSol.pdf)
+> **PDF:** [Esame 7 giugno 2023](/Esami/2023/esameGiugno_conSol.pdf)
 
 ### Esercizi:
 
