@@ -1,4 +1,4 @@
-> **PDF:** [Esame x gennaio 2024](/Esami/2024/esameGennaio_24_conSol.pdf)
+> **PDF:** [Esame 17 gennaio 2024](/Esami/2024/esameGennaio_24_conSol.pdf)
 
 ### Esercizi:
 
