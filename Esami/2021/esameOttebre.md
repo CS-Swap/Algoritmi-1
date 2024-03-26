@@ -1,4 +1,4 @@
-> **PDF:** [Esame x ottebre 2021](/Esami/2021/esameOttobre_conSol.pdf)
+> **PDF:** [Esame 21 ottebre 2021](/Esami/2021/esameOttobre_conSol.pdf)
 
 ### Esercizi:
 
