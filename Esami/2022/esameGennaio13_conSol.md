@@ -1,4 +1,4 @@
-> **PDF:** [Esame 13 gennaio 2022](/Esami/2022/esameGennaio13_conSol.pdf)
+> **PDF:** [Esame 13 gennaio 2021](/Esami/2022/esameGennaio13_conSol.pdf)
 
 ### Esercizi:
 
