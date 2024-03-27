@@ -34,6 +34,6 @@
 - [Esame 8 settembre 2021](/Esami/2021/esameSettembre.md)
 - [Esame 13 luglio 2021](/Esami/2021/esameLuglio.md)
 - [Esame 22 giugno 2021](/Esami/2021/esameGiugno.md)
-- [Esame 31 Gennaio 2021](/Esami/2022/esameGennaio31_conSol.md)
+- [Esame 31 Gennaio 2021](/Esami/2021/esameGennaio31_conSol.md)
 
 ---
