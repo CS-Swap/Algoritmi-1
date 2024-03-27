@@ -2,7 +2,7 @@
 
 ### Esercizi:
 
-[**Esercizio 1**](issue file path)
+[**Esercizio 1**](/../../issues/27)
 
 [**Esercizio 2**](issue file path)
 
