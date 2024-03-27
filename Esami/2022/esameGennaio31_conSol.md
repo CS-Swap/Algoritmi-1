@@ -7,9 +7,3 @@
 [**Esercizio 2**](issue file path)
 
 [**Esercizio 3**](issue file path)
-
-[**Esercizio 4**](issue file path)
-
-[**Esercizio 5**](issue file path)
-
-[**Esercizio 6**](issue file path)
