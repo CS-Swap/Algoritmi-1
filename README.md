@@ -7,6 +7,8 @@
 - **Lezione 3:** [Costo Algoritmi Sorting](/../../issues/4), [Costo Algoritmi Iterativi](/../../issues/8)
 - **Lezione 4:** [Costo Algoritmi (0 to 9)](/../../issues/3), [Ricerca Binaria](/../../issues/2)
 - **Lezione 6:** [Calcolo complessità algoritmi ricorsivi](/../../issues/6)
+- **Lezione 7:** [1]()
+- **Lezione 8:** [1](/../../issues/31)
 
 ---
 ### Esami
