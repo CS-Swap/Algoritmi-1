@@ -2,7 +2,7 @@
 
 
 >Categorie di esercizi
-> - [Esercizi con spiegazzione dettagliata](https://github.com/CS-Swap/Algoritmi-1/labels/Con%20spiegazione%20dettagliata)
+> - [Esercizi con spiegazione dettagliata](https://github.com/CS-Swap/Algoritmi-1/labels/Con%20spiegazione%20dettagliata)
 > - [Esercizi risolti](https://github.com/CS-Swap/Algoritmi-1/labels/Risolto)
 > - [Esercizi con soluzione da verificare](https://github.com/CS-Swap/Algoritmi-1/labels/Da%20Controllare)
 > - [Esercizi da svolgere](https://github.com/CS-Swap/Algoritmi-1/labels/To-Do)
