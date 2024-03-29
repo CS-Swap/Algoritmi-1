@@ -16,7 +16,7 @@
 - **Lezione 4:** [Costo Algoritmi (0 to 9)](/../../issues/3), [Ricerca Binaria](/../../issues/2)
 - **Lezione 6:** [Calcolo complessità algoritmi ricorsivi](/../../issues/6)
 - **Lezione 7:** [1](/../../issues/32)
-- **Lezione 8:** [1](/../../issues/31)
+- **Lezione 8:** [1](/../../issues/31), [2](/../../issues/31), [3](/../../issues/31)
 
 ---
 ### Esami
