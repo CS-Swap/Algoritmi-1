@@ -14,7 +14,7 @@
 - **Lezione 2:** [Dimostrazioni andameto asintotico](/../../issues/1)
 - **Lezione 3:** [Costo Algoritmi Sorting](/../../issues/4), [Costo Algoritmi Iterativi](/../../issues/8)
 - **Lezione 4:** [Costo Algoritmi (0 to 9)](/../../issues/3), [Ricerca Binaria](/../../issues/2)
-- **Lezione 6:** [Calcolo complessità algoritmi ricorsivi](/../../issues/6)
+- **Lezione 6:** [1](/../../issues/44), [2](/../../issues/45), [3](/../../issues/46), [4](/../../issues/47), [5](/../../issues/48), [6](/../../issues/49), [7](/../../issues/50), [8](/../../issues/51), [9](/../../issues/52)
 - **Lezione 7:** [1](/../../issues/32)
 - **Lezione 8:** [1](/../../issues/31), [2](/../../issues/33), [3](/../../issues/34), [4](/../../issues/36), [5](/../../issues/37), [6](/../../issues/38)
 
