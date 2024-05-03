@@ -4,6 +4,6 @@
 
 [**Esercizio 1**](/../../issues/11)
 
-[**Esercizio 2**](issue file path)
+[**Esercizio 2**](/../../issues/54)
 
-[**Esercizio 3**](issue file path)
+[**Esercizio 3**](/../../issues/55)
