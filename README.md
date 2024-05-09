@@ -17,7 +17,7 @@
 - **Lezione 6:** [1](/../../issues/44), [2](/../../issues/45), [3](/../../issues/46), [4](/../../issues/47), [5](/../../issues/48), [6](/../../issues/49), [7](/../../issues/50), [8](/../../issues/51), [9](/../../issues/52)
 - **Lezione 7:** [1](/../../issues/32)
 - **Lezione 8:** [1](/../../issues/31), [2](/../../issues/33), [3](/../../issues/34), [4](/../../issues/36), [5](/../../issues/37), [6](/../../issues/38)
-- **Lezione 9:** [1](/../../issues/60)
+- **Lezione 9:** [1](/../../issues/60), [2](/../../issues/61)
 
 ---
 ### Esami
