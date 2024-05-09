@@ -18,6 +18,7 @@
 - **Lezione 7:** [1](/../../issues/32)
 - **Lezione 8:** [1](/../../issues/31), [2](/../../issues/33), [3](/../../issues/34), [4](/../../issues/36), [5](/../../issues/37), [6](/../../issues/38)
 - **Lezione 9:** [1](/../../issues/60), [2](/../../issues/61)
+- **Lezione 10** [1](/../../issues/62)
 
 ---
 ### Esami
