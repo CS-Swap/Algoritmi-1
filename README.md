@@ -1,4 +1,4 @@
-# Algoritmi-1
+<img width="558" alt="image" src="https://github.com/CS-Swap/Algoritmi-1/assets/147436677/a1ba39bd-19cb-4767-abf7-8f4b36db5cf7"># Algoritmi-1
 
 
 >Categorie di esercizi
@@ -18,7 +18,7 @@
 - **Lezione 7:** [1](/../../issues/32)
 - **Lezione 8:** [1](/../../issues/31), [2](/../../issues/33), [3](/../../issues/34), [4](/../../issues/36), [5](/../../issues/37), [6](/../../issues/38)
 - **Lezione 9:** [1](/../../issues/60), [2](/../../issues/61)
-- **Lezione 10** [1](/../../issues/62)
+- **Lezione 10** [1](/../../issues/62), [2](/../../issues/63)
 
 ---
 ### Esami
