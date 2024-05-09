@@ -1,4 +1,4 @@
-<img width="558" alt="image" src="https://github.com/CS-Swap/Algoritmi-1/assets/147436677/a1ba39bd-19cb-4767-abf7-8f4b36db5cf7"># Algoritmi-1
+# Algoritmi-1
 
 
 >Categorie di esercizi
