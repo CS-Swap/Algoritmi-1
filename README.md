@@ -1,7 +1,7 @@
 # Algoritmi-1
 
 
->Categorie di esercizi
+>Categorie di esercizi:
 > - [Esercizi con spiegazione dettagliata](https://github.com/CS-Swap/Algoritmi-1/labels/Con%20spiegazione%20dettagliata)
 > - [Esercizi risolti](https://github.com/CS-Swap/Algoritmi-1/labels/Risolto)
 > - [Esercizi con soluzione da verificare](https://github.com/CS-Swap/Algoritmi-1/labels/Da%20Controllare)
