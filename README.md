@@ -39,16 +39,16 @@
 **2022:**
 - [Esame 25 Ottobre 2022](/Esami/2022/esameOttobre2022_conSol.md)
 - [Esame 15 Settembre 2022](/Esami/2022/esameSettembre2022_conSol.md)
-- [Esame 27 giugno 2022](/Esami/2022/esameGiugno27_conSol.md)
-- [Esame 8 giugno 2022](/Esami/2022/esameGiugno8_conSol.md)
+- [Esame 27 Giugno 2022](/Esami/2022/esameGiugno27_conSol.md)
+- [Esame 8 Giugno 2022](/Esami/2022/esameGiugno8_conSol.md)
 - [Esame 31 Marzo 2022](/Esami/2022/esameMarzo2022_conSol.md)
 - [Esame 13 Gennaio 2022](/Esami/2022/esameGennaio13_conSol.md)
 
 **2021:**
 - [Esame 21 Ottobre 2021](/Esami/2021/esameOttebre.md)
-- [Esame 8 settembre 2021](/Esami/2021/esameSettembre.md)
-- [Esame 13 luglio 2021](/Esami/2021/esameLuglio.md)
-- [Esame 22 giugno 2021](/Esami/2021/esameGiugno.md)
+- [Esame 8 Settembre 2021](/Esami/2021/esameSettembre.md)
+- [Esame 13 Luglio 2021](/Esami/2021/esameLuglio.md)
+- [Esame 22 Giugno 2021](/Esami/2021/esameGiugno.md)
 - [Esame 31 Gennaio 2021](/Esami/2021/esameGennaio31_conSol.md)
 
 ---
